@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "7af0f6321f35f69c",
+            "id": "a5adb07eab17edba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a5adb07eab17edba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character.md"
+                "file": "System.md"
               }
             }
           },
@@ -182,7 +170,9 @@
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
     "System.md",
-    "Character.md",
+    "System.md",
+    "Skill.md",
+    "Attribute.md",
     "Setting.md",
     "Welcome.md"
   ]
