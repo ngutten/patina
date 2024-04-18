@@ -1,4 +1,4 @@
-### Tasks
+### [[Task]]
 
 The basic unit of action in Patina beyond things which can just be done automatically is the Task. A Task has a Threshold for completion (a total number of successes that must be rolled) and a Cost per roll (which is generally the time it takes, but may also involve materials, supplies, points of Pools, risk of discovery, etc).
 
