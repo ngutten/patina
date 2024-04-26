@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skill.md",
+                "file": "Attribute.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill.md",
+                "file": "Attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill.md",
+                "file": "Attribute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill.md"
+                "file": "Attribute.md"
               }
             }
           },
@@ -169,11 +169,22 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "System.md",
-    "Task.md",
-    "Skill.md",
+    "Advancement and Retraining.md",
+    "Actions and Tasks.md",
     "Attribute.md",
+    "Cumulative Difficulty.md",
+    "Extended Tasks.md",
+    "Health and Injury.md",
+    "System.md",
     "Setting.md",
+    "Skill.md",
+    "Resisting damage.md",
+    "<Specialized>.md",
+    "Task.md",
+    "<Instantaneous>.md",
+    "<Reaction>.md",
+    "(Counter).md",
+    "{Resilience}.md",
     "Welcome.md"
   ]
 }

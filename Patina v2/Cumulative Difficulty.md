@@ -1,0 +1,5 @@
+Certain Tasks become harder the more they are repeated in a short period of time. These are noted as having Cumulative Difficulty, and their success thresholds are written as `ST x + yC` where the base threshold is `x` and the increase per additional time the task is performed is `y`.
+
+The condition for the cumulative counter to reset depends on the particular Task - some are once per 10 seconds (e.g. per combat round), others reset upon the character having a chance to rest, and longer-term Tasks may reset on completion of the particular scenario in which the Task is being used - for example, [[Stealth]] becomes increasingly difficult within the context of a particular infiltration or heist.
+
+Tasks may be grouped together in families that are mutually cumulative - performance of any Task in the family increases the difficulty of all the others. These will be noted by descriptive tags such as [[{Evasion}]] or [[{Deflection}]] or [[{Resilience}]] tasks.

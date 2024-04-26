@@ -8,6 +8,23 @@ Characters start with zero in all skills, but gain free 'ghost' skill ranks from
 
 Skills can be advanced at a cost of 3xp for the first additional point, 6xp for the second, 9xp for the third, and so on. There is a normal cap of 5 points of skill purchases, though (independently of ghost ranks) this cap can be increased through specific [[Advantages]] or in-character opportunities. A character making a fundamental discovery in a field of science may gain the specific opportunity to break cap on their [[Science]] skill for example.
 
+---
+Academics - Scholarship, formal writing
+Athletics - Moving, running, jumping, climbing, etc
+Discipline - Meditation, resilience, endurance, etc
+Economics - Trade, values of things, barter, haggling
+Exploration - Survival, tracking, orienteering, mapping
+Imagination - Art, design, performance, conceptualization side of crafting
+Linguistics - Speaking languages, programming, some kinds of spellwork, cryptography, translation
+Logic - Mathematics, reasoning, inference, formal sciences
+Memory -
+Organization - Logistics, planning, provisioning
+Process - Fabrication side of crafting, automation, industrial design
+Social - Individual-level hierarchies, relationships, favors, human interactions, persuasion, politics
+Subterfuge - Stealth, pick-pocketting, lockpicking, deception
+Warfare - Aggression, intimidation, battle, strategy, tactics
+
+---
 These are the generally available Skills:
 
 - [[Athletics]] - Control and perception of one's own muscles and body. Acts of acrobatics, contortion, dodging, climbing, parkour, etc.
