@@ -6,7 +6,7 @@ Skills also contribute to the dice rolls that determine progress towards complet
 
 Characters start with zero in all skills, but gain free 'ghost' skill ranks from their [[Background]] (in that they do not increase the cost of buying more points of skill, and act to increase the effective skill cap). 
 
-Skills can be advanced at a cost of 3xp for the first additional point, 6xp for the second, 9xp for the third, and so on. There is a normal cap of 5 points of skill purchases, though (independently of ghost ranks) this cap can be increased through specific [[Advantages]] or in-character opportunities. A character making a fundamental discovery in a field of science may gain the specific opportunity to break cap on their [[Science]] skill for example.
+Skills can be advanced at a cost of 3xp for the first additional point, 6xp for the second, 9xp for the third, and so on. There is a normal cap of 8 points of skill purchases, though (independently of ghost ranks) this cap can be increased through specific [[Advantages]] or in-character opportunities. A character making a fundamental discovery in a field of science may gain the specific opportunity to break cap on their [[Science]] skill for example.
 
 ---
 Academics - Scholarship, formal writing
