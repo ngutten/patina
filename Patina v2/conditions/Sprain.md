@@ -1,0 +1,1 @@
+-1 [[Dexterity]] per Severity. This is a **long-term condition**.

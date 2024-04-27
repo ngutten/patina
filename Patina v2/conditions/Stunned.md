@@ -1,0 +1,3 @@
+The character is briefly unable to control their body or focus their mind, though they remain conscious and aware. Effectively they may talk, but not move or do most non-[[<Automatic>]] tasks. An exception is that a character may [[Shake Off]] the Stunned condition or use other [[{Recovery}]] actions on themselves while Stunned.
+
+This condition reduces in Severity once every 10 seconds regardless of its current Severity. 

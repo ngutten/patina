@@ -1,0 +1,1 @@
+The Severity of other incoming conditions is increased by 1 as long as the character has this condition. Higher Severities of Vulnerable simply last longer, and do not otherwise make the vulnerability worse. This is a **short-term condition**.

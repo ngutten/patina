@@ -1,0 +1,1 @@
+Serious internal injury, this is a **long-term condition** reducing [[Body]] by 1 per Severity.

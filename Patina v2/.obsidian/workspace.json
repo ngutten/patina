@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "attributes/Empathy.md",
+                "file": "conditions/Off-balance.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attributes/Empathy.md",
+                "file": "conditions/Off-balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attributes/Empathy.md",
+                "file": "conditions/Off-balance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attributes/Empathy.md"
+                "file": "conditions/Off-balance.md"
               }
             }
           },
@@ -167,37 +167,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ef33a426daabb2d",
+  "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "Attribute.md",
+    "conditions/Disoriented.md",
+    "conditions/Nauseated.md",
+    "conditions/Distracted.md",
+    "conditions/Bleed.md",
+    "conditions/Numb.md",
+    "conditions/Sprain.md",
+    "conditions/Winded.md",
+    "conditions/Pain.md",
+    "conditions/Stunned.md",
+    "conditions/Organ Damage.md",
+    "conditions/Off-balance.md",
+    "conditions/Vulnerable.md",
+    "conditions/Bruising.md",
+    "Skill.md",
+    "Resisting damage.md",
+    "Health and Injury.md",
+    "Complication.md",
+    "Risk Dice.md",
     "attributes/Empathy.md",
+    "Attribute.md",
     "attributes/Senses.md",
     "attributes/Mind.md",
     "attributes/Intellect.md",
     "attributes/Reflexes.md",
     "attributes/Dexterity.md",
     "attributes/Body.md",
-    "attributes/Might.md",
-    "Advancement and Retraining.md",
-    "Actions and Tasks.md",
-    "tasks/Improvisation.md",
-    "tasks/Research.md",
-    "tasks/Horseriding.md",
-    "tasks/Pick Lock.md",
-    "tasks/Hold Breath.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",
-    "tasks/Swim.md",
-    "tasks/Jump.md",
-    "tasks/Climb.md",
-    "tasks/Track.md",
-    "tasks/Find Clues.md",
-    "tasks/Sneak.md",
-    "tasks/Wilderness Travel.md",
-    "tasks/Craft Item.md",
-    "tasks/Parry.md",
-    "tasks/Dodge.md",
     "conditions",
     "advantages",
     "tasks",
