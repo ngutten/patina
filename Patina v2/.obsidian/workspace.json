@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conditions/Off-balance.md",
+                "file": "skills/Trade.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conditions/Off-balance.md",
+                "file": "skills/Trade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conditions/Off-balance.md",
+                "file": "skills/Trade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conditions/Off-balance.md"
+                "file": "skills/Trade.md"
               }
             }
           },
@@ -169,32 +169,32 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "conditions/Disoriented.md",
-    "conditions/Nauseated.md",
-    "conditions/Distracted.md",
-    "conditions/Bleed.md",
-    "conditions/Numb.md",
-    "conditions/Sprain.md",
-    "conditions/Winded.md",
-    "conditions/Pain.md",
-    "conditions/Stunned.md",
-    "conditions/Organ Damage.md",
-    "conditions/Off-balance.md",
-    "conditions/Vulnerable.md",
-    "conditions/Bruising.md",
+    "skills/Social.md",
+    "skills/Scholarship.md",
+    "skills/Planning.md",
+    "skills/Nurture.md",
+    "skills/Movement.md",
+    "skills/Making.md",
+    "skills/Instinct.md",
+    "skills/Insight.md",
+    "skills/Grok.md",
+    "skills/Grit.md",
+    "skills/Esoterica.md",
+    "skills/Devices.md",
+    "skills/Destruction.md",
+    "skills/Deception.md",
+    "skills/Creativity.md",
+    "skills/Communication.md",
+    "skills/Awareness.md",
+    "skills/Aggression.md",
+    "skills/Trade.md",
     "Skill.md",
-    "Resisting damage.md",
-    "Health and Injury.md",
-    "Complication.md",
-    "Risk Dice.md",
-    "attributes/Empathy.md",
-    "Attribute.md",
     "attributes/Senses.md",
-    "attributes/Mind.md",
-    "attributes/Intellect.md",
-    "attributes/Reflexes.md",
-    "attributes/Dexterity.md",
-    "attributes/Body.md",
+    "conditions/Winded.md",
+    "conditions/Vulnerable.md",
+    "conditions/Stunned.md",
+    "conditions/Sprain.md",
+    "conditions/Pain.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",

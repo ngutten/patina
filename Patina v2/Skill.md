@@ -1,50 +1,25 @@
-Skills are broad categories of competence and talent, rather than representing specific knowledge or training. A character could have a broad [[Machine Use]] skill rather than a specific skill for computers or driving cars or piloting aircraft.
+Skills represent fundamentals and broad categories of competence and talent, whereas [[Subskills]] represent specific knowledge and training in a narrow field. To this end, the general skills take the form of abstract categories of action - [[Aggression]], [[Invention]], [[Making]], and so on.
 
-Skills first and foremost act as prerequisites for being able to do certain things. Performing a certain surgery may be strictly impossible without a certain rank of [[Medicine]]. For [[Methods]] these prerequisite ranks are explicitly given; for improvised actions, it is adjudicated on the fly.
+General skills cost 2xp times the new rank to raise and start at zero, though [[Background|Backgrounds]] can give free skill ranks as part of their packages.
 
-Skills also contribute to the dice rolls that determine progress towards completion of a Task, and as such can modify the time and expense of doing things. A practical example of this is that basic 'attacks' in melee combat are modeled as progression towards creating an opening to land a strike, and so the corresponding skill effectively determines the rate at which a character can land hits.
+The general skills are:
 
-Skills can be advanced at a cost of 2xp for the first additional point, 4xp for the second, 6xp for the third, and so on (on top of any 'ghost' ranks). Skills can be advanced a maximum of 6 times, though this cap can be increased through specific [[Advantages]] or in-character opportunities. A character making a fundamental discovery in a field of science may gain the specific opportunity to break cap on their [[Science]] skill for example.
-
-Characters start with zero in all skills, but gain free skill advancements from their [[Background]]. These count towards the skill cap and increase in cost of advancement.
-
----
-Academics - Scholarship, formal writing
-Athletics - Moving, running, jumping, climbing, etc
-Discipline - Meditation, resilience, endurance, etc
-Economics - Trade, values of things, barter, haggling
-Exploration - Survival, tracking, orienteering, mapping
-Imagination - Art, design, performance, conceptualization side of crafting
-Linguistics - Speaking languages, programming, some kinds of spellwork, cryptography, translation
-Logic - Mathematics, reasoning, inference, formal sciences
-Memory -
-Organization - Logistics, planning, provisioning
-Process - Fabrication side of crafting, automation, industrial design
-Social - Individual-level hierarchies, relationships, favors, human interactions, persuasion, politics
-Subterfuge - Stealth, pick-pocketting, lockpicking, deception
-Warfare - Aggression, intimidation, battle, strategy, tactics
-
----
-These are the generally available Skills:
-
-- [[Athletics]] - Control and perception of one's own muscles and body. Acts of acrobatics, contortion, dodging, climbing, parkour, etc.
-- [[Warfare]] - The skill of aggression and defense, individual and group combat, strategy and tactics. 
-- [[Deception]] - Lying, presenting a false face, disguise, manipulating evidence, stealth, distractions, feints.
-- [[Labor]] - Sense of how to go about doing jobs without injuring yourself or having accidents. How to think through 'how to fell a tree' so it doesn't fall on you, then how to actually do it in a way that avoids injury or exhaustion.
-- [[Apprehension]] - The skill of understanding things, integrating perceptions, etc. Following tracks, finding hidden things.
-- [[Nimbleness]] - Catch-all for 'clever movements' - picking locks, picking pockets, stage magic, catching thrown objects and throwing accurately, manipulating things by touch alone, delicate crafts like clockwork or jewelry.
-- [[Social]] - Skill involving understanding and navigating hierarchies, relating to people and understanding the relationships between people.
-- [[Art]] - Making or performing creative, expressive works - painting, singing, dancing, etc. Focuses on communicating or representing abstract things - emotions as words, etc - rather than the technical execution.
-- [[Craft]] - The skill of knowing or figuring out how a thing might be made to one's design, from blacksmithing to architecture. 'How do I paint 30 meter tall letters precise to 1mm?', 'how can these two curves be made in stone to mechanical tolerances?', etc.
-- [[Mercantile]] - Knowing the value of things, sourcing goods, haggling, understanding and manipulating supply and demand.
-- [[Scholarship]] - Finding information in literature or fields of study, writing informatively or persuasively, teaching, advising, discerning truth in records, finding consistencies and inconsistencies.
-- [[Medicine]] - The workings, sustenance, care, and repair of living things.
-- [[Science]] - The use of knowledge to explain and anticipate the world and its phenomena, how to perform experiments, compose theories, and turn those things into technologies.
-- [[Machine Use]] - Driving cars, flying planes, using computers. Anything that involves acting through the intermediary of a device. Also involves things like programming and ergonomics.
-- [[Logistics]] - Design and management of flows of resources and labor, acts involving ensuring that needs are met for a project, figuring out dependencies between things.
-
-There are some additional Skills primarily relevant to supernatural practices, but usually with some mundane applications. It's not impossible for a character to learn these skills without the supporting supernatural abilities, but they have more limited applications in those cases.
-- [[Esoterica]] - Perform rituals, utilize symbols and metaphors and references to lore, interpret myths.
-- [[Mentalism]] - A catch-all for mental arts, anything from hypnotism to meditation to telepathy to scrying the infosphere.
-- [[Mind over Matter]] - Pushing through pain, exhaustion, deprivation. Holding one's breath, overcoming or ignoring injuries, biofeedback techniques and manipulation of the nature of one's own body intentionally
-- [[Fateweaving]] - Interpretation of portents, discerning the future, taking advantage of opportunities or creating them. Anything that has to do with 'fate', taking advantage of the butterfly effect, etc. 
+- [[Aggression]] - Warfare, attacking in combat, intimidation, showing spine.
+- [[Awareness]] - Talent at noticing things in your surroundings, judging what is relevant and what is not, picking out details, searching, following tracks, sensing latent hostility, etc. 
+- [[Communication]] - Understanding others and making yourself understood, making contact, skill at languages. Important in artistic practice. Also can cover leadership, revelry, commanding others so they can understand and execute the commands, etc.
+- [[Creativity]] - Ability to un-stick one's thought process, and to bring new ideas into existence. Also part of artistic expression and expressing things which previously had no form. Invention, MacGyvering, etc also falls under this skill.
+- [[Deception]] - Hiding your self or your intentions or your truths. Anything involving concealing evidence, preventing others from knowing things. Cryptography is under here, as are various forms of spycraft, stealth, etc.
+- [[Destruction]] - As opposed to Aggression, this skill is centered on the ending of things and their function rather than the act of attacking. Sabotage, demolitions, making the biggest bombs, targeting cannonfire for the greatest damage to a structure, dismantling an organization. Talent at knowing how things can fall apart.
+- [[Devices]] - Everything from driving a car to using a computer to picking a lock to playing an instrument. How comfortable you are with acting through something else, understanding the internal mechanisms of something else. 
+- [[Esoterica]] - The ability to conceptualize things outside of the familiar, to move one's thoughts in alien patterns and to comprehend and abide paradoxes. The skill to believe in apparently false and contradictory things as if they were true, and in doing so being able to utilize them.
+- [[Grit]] - The ability to bear stresses, pain, and injury. To work through negative things without being impacted. Holding one's breath, marching for hours in heavy gear and bad environmental conditions, holding still while undergoing surgery without anaesthetic.
+- [[Grok]] - Making sense of the patterns of the world, the behaviors and thoughts of others. Understanding, comprehension. Various forms of natural science fall under here.
+- [[Insight]] - Knowing the self, navigating one's own mind and body. Meditation, self-reflection.
+- [[Instinct]] - Survival in nature, ability to listen to and execute primal drives and urges when appropriate or necessary, ability to act automatically and correctly without thought. Also covers reflexive self-protective actions - shielding from a blow or explosion, closing eyes against a bright flash, etc.
+- [[Making]] - Talent at constructing, building, crafting, and designing things to order. The systematic flip side of [[Creativity]] - Creativity gets you ideas while Making helps you apply them. This is engineering to creativity's research.
+- [[Movement]] - Climbing, running, swimming, acrobatics, dancing - control of the movement of your own body.
+- [[Nurture]] - Making things whole, helping things achieve their best potential. Anything from repairing broken objects to treating wounds to teaching students to growing plants. Knowing what something needs in order to get better.
+- [[Planning]] - The ability to conceptualize complex courses of action, map them out, and follow them. Knowing what you need to know. Designing systems - logistics, organizational systems, etc. Conceiving of how something will operate in mental simulation.
+- [[Scholarship]] - Locating and organizing information, access to large amounts of formal knowledge, trace the provenance of knowledge (who said what, who came up with what, where do people disagree), find things in a library, test-taking skills, etc. Also covers applying formal systems of thought like logic or mathematics.
+- [[Social]] - Understanding and manipulating the relationships between people and the dynamics of organizations larger than one person. Less applicable to a one-on-one conversation, more about understanding the pressures and reliances people have between each-other. Politics falls under here.
+- [[Trade]] - Anything involving exchanges and understanding the relative values of things, from economics to sacrifice plays in board games to increasing the efficiency of your resource expenditures in a building project or in magic. 
