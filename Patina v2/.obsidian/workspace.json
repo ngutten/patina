@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/Trade.md",
+                "file": "tasks/Attack with Weapon.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skills/Trade.md",
+                "file": "tasks/Attack with Weapon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skills/Trade.md",
+                "file": "tasks/Attack with Weapon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skills/Trade.md"
+                "file": "tasks/Attack with Weapon.md"
               }
             }
           },
@@ -169,32 +169,32 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "skills/Social.md",
-    "skills/Scholarship.md",
-    "skills/Planning.md",
-    "skills/Nurture.md",
-    "skills/Movement.md",
-    "skills/Making.md",
-    "skills/Instinct.md",
-    "skills/Insight.md",
-    "skills/Grok.md",
-    "skills/Grit.md",
-    "skills/Esoterica.md",
-    "skills/Devices.md",
-    "skills/Destruction.md",
-    "skills/Deception.md",
-    "skills/Creativity.md",
-    "skills/Communication.md",
-    "skills/Awareness.md",
-    "skills/Aggression.md",
-    "skills/Trade.md",
-    "Skill.md",
-    "attributes/Senses.md",
+    "Attribute.md",
+    "attributes/Reflexes.md",
+    "tasks/Attack with Weapon.md",
+    "conditions/Injury.md",
+    "conditions/Nauseated.md",
+    "conditions/Disoriented.md",
+    "conditions/Pain.md",
     "conditions/Winded.md",
     "conditions/Vulnerable.md",
-    "conditions/Stunned.md",
+    "conditions/Organ Damage.md",
+    "conditions/Off-balance.md",
+    "conditions/Distracted.md",
+    "conditions/Bleed.md",
+    "Risk Dice.md",
+    "conditions/Head Injury.md",
+    "conditions/Leg Injury.md",
+    "conditions/Torso Injury.md",
     "conditions/Sprain.md",
-    "conditions/Pain.md",
+    "Complication.md",
+    "conditions/Stunned.md",
+    "conditions/Bruising.md",
+    "conditions/Untitled.md",
+    "skills/Aggression.md",
+    "skills/Trade.md",
+    "skills/Social.md",
+    "skills/Scholarship.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",
