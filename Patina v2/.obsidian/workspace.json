@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risk Dice.md",
+                "file": "Complication.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk Dice.md",
+                "file": "Complication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk Dice.md",
+                "file": "Complication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk Dice.md"
+                "file": "Complication.md"
               }
             }
           },
@@ -170,8 +170,19 @@
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
     "Resisting damage.md",
-    "Setting.md",
+    "Complication.md",
+    "conditions",
     "Risk Dice.md",
+    "Untitled.md",
+    "advantages",
+    "tasks",
+    "items",
+    "places",
+    "subskills",
+    "skills",
+    "attributes",
+    "keywords",
+    "Setting.md",
     "Skill.md",
     "System.md",
     "Actions and Tasks.md",
@@ -180,12 +191,12 @@
     "Cumulative Difficulty.md",
     "Health and Injury.md",
     "Extended Tasks.md",
-    "<Specialized>.md",
+    "keywords/<Specialized>.md",
     "Task.md",
-    "<Instantaneous>.md",
-    "<Reaction>.md",
+    "keywords/<Instantaneous>.md",
+    "keywords/<Reaction>.md",
     "(Counter).md",
-    "{Resilience}.md",
+    "keywords/{Resilience}.md",
     "Welcome.md"
   ]
 }
