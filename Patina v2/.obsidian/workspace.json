@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health and Injury.md",
+                "file": "attributes/Empathy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Health and Injury.md",
+                "file": "attributes/Empathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Health and Injury.md",
+                "file": "attributes/Empathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Health and Injury.md"
+                "file": "attributes/Empathy.md"
               }
             }
           },
@@ -167,36 +167,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5adb07eab17edba",
+  "active": "9ef33a426daabb2d",
   "lastOpenFiles": [
-    "Extended Tasks.md",
-    "Skill.md",
+    "Attribute.md",
+    "attributes/Empathy.md",
+    "attributes/Senses.md",
+    "attributes/Mind.md",
+    "attributes/Intellect.md",
+    "attributes/Reflexes.md",
+    "attributes/Dexterity.md",
+    "attributes/Body.md",
+    "attributes/Might.md",
     "Advancement and Retraining.md",
-    "Complication.md",
-    "Resisting damage.md",
+    "Actions and Tasks.md",
+    "tasks/Improvisation.md",
+    "tasks/Research.md",
+    "tasks/Horseriding.md",
+    "tasks/Pick Lock.md",
+    "tasks/Hold Breath.md",
+    "tasks/soldiery",
+    "tasks/duelling",
+    "tasks/brawling",
+    "tasks/Swim.md",
+    "tasks/Jump.md",
+    "tasks/Climb.md",
+    "tasks/Track.md",
+    "tasks/Find Clues.md",
+    "tasks/Sneak.md",
+    "tasks/Wilderness Travel.md",
+    "tasks/Craft Item.md",
+    "tasks/Parry.md",
+    "tasks/Dodge.md",
     "conditions",
-    "Risk Dice.md",
-    "Untitled.md",
     "advantages",
     "tasks",
     "items",
     "places",
     "subskills",
-    "skills",
-    "attributes",
-    "keywords",
-    "Setting.md",
-    "System.md",
-    "Actions and Tasks.md",
-    "Attribute.md",
-    "Cumulative Difficulty.md",
-    "Health and Injury.md",
-    "keywords/<Specialized>.md",
-    "Task.md",
-    "keywords/<Instantaneous>.md",
-    "keywords/<Reaction>.md",
-    "(Counter).md",
-    "keywords/{Resilience}.md",
-    "Welcome.md"
+    "skills"
   ]
 }
