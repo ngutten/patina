@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complication.md",
+                "file": "Health and Injury.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complication.md",
+                "file": "Health and Injury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complication.md",
+                "file": "Health and Injury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complication.md"
+                "file": "Health and Injury.md"
               }
             }
           },
@@ -169,8 +169,11 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "Resisting damage.md",
+    "Extended Tasks.md",
+    "Skill.md",
+    "Advancement and Retraining.md",
     "Complication.md",
+    "Resisting damage.md",
     "conditions",
     "Risk Dice.md",
     "Untitled.md",
@@ -183,14 +186,11 @@
     "attributes",
     "keywords",
     "Setting.md",
-    "Skill.md",
     "System.md",
     "Actions and Tasks.md",
-    "Advancement and Retraining.md",
     "Attribute.md",
     "Cumulative Difficulty.md",
     "Health and Injury.md",
-    "Extended Tasks.md",
     "keywords/<Specialized>.md",
     "Task.md",
     "keywords/<Instantaneous>.md",
