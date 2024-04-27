@@ -4,9 +4,9 @@ Skills first and foremost act as prerequisites for being able to do certain thin
 
 Skills also contribute to the dice rolls that determine progress towards completion of a Task, and as such can modify the time and expense of doing things. A practical example of this is that basic 'attacks' in melee combat are modeled as progression towards creating an opening to land a strike, and so the corresponding skill effectively determines the rate at which a character can land hits.
 
-Characters start with zero in all skills, but gain free 'ghost' skill ranks from their [[Background]] (in that they do not increase the cost of buying more points of skill, and act to increase the effective skill cap). 
+Skills can be advanced at a cost of 1xp for the first additional point, 2xp for the second, 3xp for the third, and so on (on top of any 'ghost' ranks). Skills can be advanced a maximum of 6 times, though this cap can be increased through specific [[Advantages]] or in-character opportunities. A character making a fundamental discovery in a field of science may gain the specific opportunity to break cap on their [[Science]] skill for example.
 
-Skills can be advanced at a cost of 3xp for the first additional point, 6xp for the second, 9xp for the third, and so on. There is a normal cap of 8 points of skill purchases, though (independently of ghost ranks) this cap can be increased through specific [[Advantages]] or in-character opportunities. A character making a fundamental discovery in a field of science may gain the specific opportunity to break cap on their [[Science]] skill for example.
+Characters start with zero in all skills, but gain free skill advancements from their [[Background]]. These count towards the skill cap and increase in cost of advancement.
 
 ---
 Academics - Scholarship, formal writing
