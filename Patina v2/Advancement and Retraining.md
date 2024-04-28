@@ -1,11 +1,11 @@
 ### Advancement
 
-Characters gain 4xp per game session normally. Whenever any party member accomplishes a personal milestone, or when the group as a whole accomplishes a group milestone or goal, the GM may award bonus experience to the party as a whole at their discretion, generally around 6-12xp. Players are encouraged to make their goals explicit to help the GM identify important milestones.
+Characters gain 5xp per game session normally. Whenever any party member accomplishes a personal milestone, or when the group as a whole accomplishes a group milestone or goal, the GM may award bonus experience to the party as a whole at their discretion, generally around 10-20p. Players are encouraged to make their goals explicit to help the GM identify important milestones.
 
 Experience may be spent as follows:
-- [[Attribute]]: 1xp per new rank squared, natural maximum of 5 advancements (on top of base value)
-- [[Skill]]: 2xp per new rank, natural maximum of 6 advancements (on top of any 'ghost' ranks)
-- [[Subskill|Subskills]]: 1xp per new rank, up to the rank of the controlling Skill.
+- [[Attribute]]: `2 x New Rank^2` XP, natural maximum of 5 advancements from the base value
+- [[Skill]]: `2 x New Rank` XP, natural maximum of Rank 10
+- [[Subskill|Subskills]]: `3 + 1 x New Rank` XP, up to the Rank of the controlling Skill.
 - [[Advantage]]: Must meet prerequisites, each has an individual price
 ### Retraining
 

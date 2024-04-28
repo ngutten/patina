@@ -1,4 +1,4 @@
-Attacking with a weapon is a baseline `ST 2 + Reflexes` [[Dexterity]]/[[Aggression]] task (using the target's Reflexes for the `ST` here). Targets who are unaware or inanimate behave as Reflexes 0. Additional factors such as other nearby clustered targets or defenders, unstable footing, poor visibility, extreme range in the case of ranged weapons, or differences in the target size from a human baseline may increase this `ST` further.
+Attacking with a weapon is a baseline `ST 2 + Reflexes` [[Dexterity]]/[[Warfare]] task (using the target's Reflexes for the `ST` here). Targets who are unaware or inanimate behave as Reflexes 0. Additional factors such as other nearby clustered targets or defenders, unstable footing, poor visibility, extreme range in the case of ranged weapons, or differences in the target size from a human baseline may increase this `ST` further.
 
 The **interval** of this task is 10 seconds for most weapons, e.g. one combat round. Very large weapons (siege weaponry, cannons, etc) may have longer intervals.
 

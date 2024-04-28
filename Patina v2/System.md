@@ -5,9 +5,10 @@
 3. Stats
 	1. [[Attribute|Attributes]]
 	2. [[Skill|Skills]]
-	3. [[Subskill|Subskills]]
-	4. [[Advantage|Advantages]]
-	5. [[Pool|Pools]]
+	3. [[Talent]]
+	4. [[Subskill|Subskills]]
+	5. [[Advantage|Advantages]]
+	6. [[Pool|Pools]]
 4. [[Health and Injury]]
 	1. [[Resisting damage]]
 	2. [[Conditions]]

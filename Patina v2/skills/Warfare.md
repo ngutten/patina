@@ -1,14 +1,14 @@
 The skill associated with aggressive actions, attacks, warfare in general, arguing against someone, and so on.
 
-Example Tasks that fall under Aggression:
-- [[Attack with Weapon]] (Dexterity/Aggression)
-- [[Coup de Gras]] (Dexterity/Aggression)]
-- [[Lead Charge]] (Reflexes/Aggression)
-- [[Intimidate]] (Empathy/Aggression)
-- [[Shove]] (Might/Aggression)
-- [[Shout Down]] (Body/Aggression)
+Example Tasks:
+- [[Attack with Weapon]] (Dexterity/Warfare)
+- [[Coup de Gras]] (Dexterity/Warfare)]
+- [[Lead Charge]] (Reflexes/Warfare)
+- [[Intimidate]] (Empathy/Warfare)
+- [[Shove]] (Might/Warfare)
+- [[Shout Down]] (Body/Warfare)
 
-Common Subskills of Aggression:
+Common Subskills:
 - [[Soldiery]]
 - [[Brawling]]
 - [[Knife Fighting]]

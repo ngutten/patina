@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/Attack with Weapon.md",
+                "file": "Skill.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/Attack with Weapon.md",
+                "file": "Skill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/Attack with Weapon.md",
+                "file": "Skill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/Attack with Weapon.md"
+                "file": "Skill.md"
               }
             }
           },
@@ -169,32 +169,32 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
+    "skills/Science.md",
     "Skill.md",
-    "Resisting damage.md",
-    "tasks/Attack with Weapon.md",
-    "Attribute.md",
-    "attributes/Reflexes.md",
-    "conditions/Injury.md",
-    "conditions/Nauseated.md",
-    "conditions/Disoriented.md",
-    "conditions/Pain.md",
-    "conditions/Winded.md",
-    "conditions/Vulnerable.md",
-    "conditions/Organ Damage.md",
-    "conditions/Off-balance.md",
-    "conditions/Distracted.md",
-    "conditions/Bleed.md",
-    "Risk Dice.md",
-    "conditions/Head Injury.md",
-    "conditions/Leg Injury.md",
-    "conditions/Torso Injury.md",
-    "conditions/Sprain.md",
-    "Complication.md",
-    "conditions/Stunned.md",
-    "conditions/Bruising.md",
-    "conditions/Untitled.md",
-    "skills/Aggression.md",
-    "skills/Trade.md",
+    "skills/Sabotage.md",
+    "skills/Machine Use.md",
+    "skills/Legerdemain.md",
+    "skills/Labor.md",
+    "skills/Exploration.md",
+    "skills/Engineering.md",
+    "skills/Craft.md",
+    "skills/Mercantile.md",
+    "skills/Creativity.md",
+    "skills/Social.md",
+    "skills/Scholarship.md",
+    "skills/Medicine.md",
+    "skills/Planning.md",
+    "skills/Insight.md",
+    "skills/Making.md",
+    "skills/Instinct.md",
+    "skills/Grit.md",
+    "skills/Perception.md",
+    "skills/Devices.md",
+    "skills/Destruction.md",
+    "skills/Communication.md",
+    "skills/Grok.md",
+    "Actions and Tasks.md",
+    "skills/Warfare.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",

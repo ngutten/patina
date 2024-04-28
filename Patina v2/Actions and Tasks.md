@@ -2,7 +2,7 @@ In Patina, non-trivial actions characters perform take the form of 'tasks'. Task
 
 Note that in Patina, it is assumed that a character can reliably succeed at doing a thing they set out to do, if it is at all possible for that character to do that thing. What is not guaranteed is whether or not this will cost resources, come with complications or side-effects (see [[Risk Dice]]), or somehow be proactively countered by an action taken by someone or something else. **There is no roll to determine if a character fails to perform an action**. 
 
-Tasks have an associated [[Attribute]] and (usually) also a [[Skill]] or [[Subskill]]. A character's score at a given task is equal to their [[Skill]] (or [[Subskill]]) plus an additional bonus purchased by spending points of the [[Pool]] associated with the task's [[Attribute]]. The total number of points of [[Pool]] that can be spent on a single task is limited by the character's corresponding [[Attribute]].
+Tasks have an associated [[Attribute]] and (usually) also a [[Skill]] or [[Subskill]]. A character's score at a given task is equal to their [[Skill]] (or [[Subskill]]) plus any bonus from [[Talent]] plus additional bonus score purchased by spending points of the [[Pool]] associated with the task's [[Attribute]]. The total number of points of [[Pool]] that can be spent on a single task is limited by the character's corresponding [[Attribute]].
 
 Bonus may normally be purchased in two forms:
 - 1 point of [[Pool]] = +1 score
