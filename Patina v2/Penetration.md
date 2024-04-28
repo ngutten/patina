@@ -1,0 +1,1 @@
+Sources of damage or injury may have a [[Penetration]] rating - this is the number of ranks of [[Resistance]] that they ignore. 

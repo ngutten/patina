@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skill.md",
+                "file": "Complication.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill.md",
+                "file": "Complication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill.md",
+                "file": "Complication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill.md"
+                "file": "Complication.md"
               }
             }
           },
@@ -169,8 +169,20 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "skills/Science.md",
+    "Risk Dice.md",
+    "Complication.md",
+    "advantages/Lucky.md",
+    "advantages/Genius.md",
+    "advantages/Polymath.md",
+    "Talent.md",
+    "System.md",
+    "Extended Tasks.md",
+    "Health and Injury.md",
+    "Resistance.md",
+    "Penetration.md",
+    "Resisting damage.md",
     "Skill.md",
+    "skills/Science.md",
     "skills/Sabotage.md",
     "skills/Machine Use.md",
     "skills/Legerdemain.md",
@@ -183,18 +195,6 @@
     "skills/Social.md",
     "skills/Scholarship.md",
     "skills/Medicine.md",
-    "skills/Planning.md",
-    "skills/Insight.md",
-    "skills/Making.md",
-    "skills/Instinct.md",
-    "skills/Grit.md",
-    "skills/Perception.md",
-    "skills/Devices.md",
-    "skills/Destruction.md",
-    "skills/Communication.md",
-    "skills/Grok.md",
-    "Actions and Tasks.md",
-    "skills/Warfare.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",
