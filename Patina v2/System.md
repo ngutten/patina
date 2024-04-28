@@ -1,7 +1,7 @@
 1. [[Actions and Tasks]]
 	1. [[Extended Tasks]]
 	2. [[Action Economy]]
-	3. [[Complication|Complications]]
+	3. [[Risk Dice]] and [[Complication|Complications]]
 3. Stats
 	1. [[Attribute|Attributes]]
 	2. [[Skill|Skills]]

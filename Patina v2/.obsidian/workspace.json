@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complication.md",
+                "file": "advantages/Tough.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complication.md",
+                "file": "advantages/Tough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complication.md",
+                "file": "advantages/Tough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complication.md"
+                "file": "advantages/Tough.md"
               }
             }
           },
@@ -169,32 +169,32 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "Risk Dice.md",
-    "Complication.md",
-    "advantages/Lucky.md",
+    "advantages/Hardy.md",
+    "advantages/Tough.md",
+    "advantages/Fleet.md",
+    "advantages/Wealthy.md",
     "advantages/Genius.md",
+    "advantages/Cautious.md",
+    "advantages/Lucky.md",
     "advantages/Polymath.md",
-    "Talent.md",
+    "advantages/Reckless.md",
     "System.md",
+    "Skill.md",
+    "Complication.md",
     "Extended Tasks.md",
+    "Attribute.md",
+    "Risk Dice.md",
+    "Talent.md",
     "Health and Injury.md",
     "Resistance.md",
     "Penetration.md",
     "Resisting damage.md",
-    "Skill.md",
     "skills/Science.md",
     "skills/Sabotage.md",
     "skills/Machine Use.md",
     "skills/Legerdemain.md",
     "skills/Labor.md",
     "skills/Exploration.md",
-    "skills/Engineering.md",
-    "skills/Craft.md",
-    "skills/Mercantile.md",
-    "skills/Creativity.md",
-    "skills/Social.md",
-    "skills/Scholarship.md",
-    "skills/Medicine.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",
