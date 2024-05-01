@@ -2,6 +2,7 @@ Skills represent fundamentals and broad categories of competence and talent, whe
 
 General skills cost 2xp times the new rank to raise and start at zero, though [[Background|Backgrounds]] can give free skill ranks as part of their packages.
 
+[[Aesthetics]] - Sense of taste, ability to distinguish styles, good from bad, ability to find and express things evocatively in cooking, music, artwork, writing, etc. 
 [[Athletics]] - Control and perception of one's own muscles and body. Acts of acrobatics, contortion, dodging, climbing, parkour, etc. Also things like horseback riding.
 [[Communication]] - Understanding others and making yourself understood, making contact, skill at languages. Important in artistic practice. Also can cover leadership, revelry, commanding others so they can understand and execute the commands, etc.
 [[Craft]] - The skill of knowing or figuring out how a thing might be made to one's design, from blacksmithing to architecture. 'How do I paint 30 meter tall letters precise to 1mm?', 'how can these two curves be made in stone to mechanical tolerances?', etc.
