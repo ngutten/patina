@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/Athletics.md",
+                "file": "skills/Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skills/Athletics.md",
+                "file": "skills/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skills/Athletics.md",
+                "file": "skills/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skills/Athletics.md"
+                "file": "skills/Communication.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "skills/Aesthetics.md",
     "skills/Athletics.md",
+    "skills/Aesthetics.md",
+    "subskills/Regalia.md",
     "skills/Warfare.md",
     "skills/Social.md",
     "skills/Science.md",
@@ -194,7 +195,6 @@
     "advantages/Tough.md",
     "advantages/Hardy.md",
     "advantages/Fleet.md",
-    "advantages/Wealthy.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",
