@@ -21,6 +21,7 @@ Common Subskills:
 Example Subskills requiring special training:
 
 [[Memetics]] - Sub-discipline of [[Psionics]]
-[[Feng Shui]] - Sub-discipline of [[Animism]]
+[[Feng Shui]] - Sub-discipline of [[Animism]], focusing on attracting [[Entity|Entities]] by shaping an environment
 [[Portents]] - Sub-discipline of [[Fateweaving]]
 [[Regalia]] - Sub-discipline of [[Oathbinding]]
+[[Mandala]] - Creation of patterns that shape thought for meditative practice. Potential for augmenting other abilities.

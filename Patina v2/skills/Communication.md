@@ -18,3 +18,6 @@ Common Subskills:
 [[Leadership]] - Give commands, allow subordinates to use your skills, manipulate morale and loyalty
 
 Example Subskills requiring special training:
+[[Telepathy]] - Subdiscipline of [[Psionics]]
+[[Contracts]] - Subdiscipline of [[Oathbinding]]
+[[Invocation]] - Subdiscipline of [[Animism]], directly calling a particular [[Entity]], making contact, and negotiating. Sometimes used (by mistake) by mediums for seances, thinking they are contacting the dead.
