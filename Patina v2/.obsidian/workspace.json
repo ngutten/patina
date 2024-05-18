@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actions and Tasks.md",
+                "file": "Setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actions and Tasks.md",
+                "file": "Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actions and Tasks.md",
+                "file": "Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actions and Tasks.md"
+                "file": "Setting.md"
               }
             }
           },
@@ -169,32 +169,32 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "keywords/AUTOMATIC.md",
-    "keywords/REACTION.md",
-    "keywords/INTERRUPTIBLE.md",
-    "skills/Craft.md",
-    "Crafting.md",
-    "keywords/SPECIALIZED.md",
-    "keywords/RESILIENCE.md",
-    "keywords/INSTANTANEOUS.md",
-    "Infiltration.md",
     "Skill.md",
     "System.md",
-    "advantages/Cautious.md",
-    "advantages/Wealthy.md",
-    "advantages/Tough.md",
-    "advantages/Polymath.md",
-    "advantages/Lucky.md",
-    "advantages/Hardy.md",
-    "advantages/Genius.md",
-    "advantages/Fleet.md",
-    "tasks/Sneak.md",
-    "tasks/Research.md",
-    "tasks/Pick Lock.md",
-    "skills/Deception.md",
-    "skills/Athletics.md",
-    "skills/Aesthetics.md",
-    "skills/Communication.md",
+    "Talent.md",
+    "Actions and Tasks.md",
+    "Attribute.md",
+    "Advancement and Retraining.md",
+    "Complication.md",
+    "Crafting.md",
+    "Cumulative Difficulty.md",
+    "keywords/DEFLECTION.md",
+    "Extended Tasks.md",
+    "Health and Injury.md",
+    "Penetration.md",
+    "Resistance.md",
+    "Infiltration.md",
+    "Resisting damage.md",
+    "keywords/EVASION.md",
+    "Risk Dice.md",
+    "Setting.md",
+    "keywords/EXCLUSIVE.md",
+    "keywords/RECOVERY.md",
+    "conditions/Stunned.md",
+    "conditions/Injury.md",
+    "conditions/Nauseated.md",
+    "conditions/Numb.md",
+    "conditions/Organ Damage.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",
