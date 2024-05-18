@@ -1,6 +1,8 @@
 ---
 aliases:
   - <Reaction>
+tags:
+  - taskKeyword
 ---
 
 This keyword indicates that a character may only initiate this Task in response to a particular condition or situation. This can cover counter-attacks, abilities to defer or prevent injury, etc.

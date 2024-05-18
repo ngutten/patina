@@ -1,0 +1,38 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "taskCategory",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "ea6f-13e2",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "tags",
+      "value": "taskKeyword",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8303-896a",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": false,
+      "selectBackground": true
+    }
+  ]
+}

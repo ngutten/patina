@@ -1,4 +1,6 @@
 ---
 aliases:
   - <Exclusive>
+tags:
+  - taskKeyword
 ---

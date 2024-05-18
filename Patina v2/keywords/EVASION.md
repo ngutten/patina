@@ -1,4 +1,6 @@
 ---
 aliases:
   - "{Evasion}"
+tags:
+  - taskCategory
 ---

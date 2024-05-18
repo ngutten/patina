@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "keywords/INSTANTANEOUS.md",
+                "file": "skills/Aesthetics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keywords/INSTANTANEOUS.md",
+                "file": "skills/Aesthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "keywords/INSTANTANEOUS.md",
+                "file": "skills/Aesthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "keywords/INSTANTANEOUS.md"
+                "file": "skills/Aesthetics.md"
               }
             }
           },
@@ -169,32 +169,32 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "keywords/EVASION.md",
-    "keywords/AUTOMATIC.md",
-    "keywords/EXCLUSIVE.md",
+    "skills/Engineering.md",
+    "skills/Deception.md",
+    "skills/Craft.md",
+    "skills/Communication.md",
+    "skills/Athletics.md",
+    "skills/Aesthetics.md",
+    "tasks/Climb.md",
+    "tasks/Attack with Weapon.md",
     "keywords/DEFLECTION.md",
-    "keywords/RECOVERY.md",
-    "keywords/SPECIALIZED.md",
-    "keywords/RESILIENCE.md",
-    "keywords/REACTION.md",
-    "keywords/INTERRUPTIBLE.md",
-    "keywords/INSTANTANEOUS.md",
-    "Infiltration.md",
-    "Setting.md",
-    "Skill.md",
-    "System.md",
     "Talent.md",
+    "System.md",
+    "Health and Injury.md",
+    "Infiltration.md",
+    "Penetration.md",
+    "Resistance.md",
+    "Risk Dice.md",
     "Actions and Tasks.md",
-    "Attribute.md",
     "Advancement and Retraining.md",
+    "Attribute.md",
     "Complication.md",
     "Crafting.md",
     "Cumulative Difficulty.md",
     "Extended Tasks.md",
-    "Health and Injury.md",
-    "Penetration.md",
-    "Resistance.md",
-    "Resisting damage.md",
+    "keywords/REACTION.md",
+    "keywords/RECOVERY.md",
+    "keywords/RESILIENCE.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",

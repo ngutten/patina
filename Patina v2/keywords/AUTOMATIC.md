@@ -1,4 +1,6 @@
 ---
 aliases:
   - <Automatic>
+tags:
+  - taskKeyword
 ---

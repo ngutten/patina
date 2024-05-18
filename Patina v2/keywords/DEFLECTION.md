@@ -1,4 +1,6 @@
 ---
 aliases:
   - "{Deflection}"
+tags:
+  - taskCategory
 ---
