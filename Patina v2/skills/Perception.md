@@ -4,7 +4,7 @@ Example Tasks:
 - [[Check for Flaws]] [[Intellect]]/[[Perception]]
 - [[Read the Air]] [[Empathy]]/[[Perception]]
 - [[Keep Watch]] [[Mind]]/[[Perception]]
-- [[Spot]] [[Senses]]/[[Perception]] [[<Reaction>]]
+- [[Spot]] [[Senses]]/[[Perception]] [[REACTION]]
 - [[Search]] [[Senses]]/[[Perception]]
 
 Common Subskills:

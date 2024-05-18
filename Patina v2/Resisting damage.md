@@ -6,7 +6,7 @@ Characters may be specially resistant against particular sources of injury or st
 
 Characters with appropriate [[Subskill|Subskills]] may have access to tasks that allow them to shed negative conditions or to prevent them from landing. 
 
-**Reduce Injury** [[<Instantaneous>]] [[<Automatic>]] [[<Reaction>]] [[{Resilience}]]: All characters may reflexively reduce the severity of incoming physical injuries as an [[Body]]/[[Grit]] task or mental injuries as a [[Mind]]/[[Grit]] task at `ST 6 + 4C` to reduce the Severity of an incoming condition by 1. The [[Cumulative Difficulty]] resets upon the character receiving one hour of rest. This Task does not apply to all conditions, only specifically ones that take the form of damage to body or mind. 
+**Reduce Injury** [[INSTANTANEOUS]] [[<Automatic>]] [[REACTION]] [[RESILIENCE]]: All characters may reflexively reduce the severity of incoming physical injuries as an [[Body]]/[[Grit]] task or mental injuries as a [[Mind]]/[[Grit]] task at `ST 6 + 4C` to reduce the Severity of an incoming condition by 1. The [[Cumulative Difficulty]] resets upon the character receiving one hour of rest. This Task does not apply to all conditions, only specifically ones that take the form of damage to body or mind. 
 
 This cannot be used to react to a condition caused by a [[Complication]].
 
