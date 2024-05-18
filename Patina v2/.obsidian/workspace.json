@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "keywords/REACTION.md",
+                "file": "Actions and Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keywords/REACTION.md",
+                "file": "Actions and Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "keywords/REACTION.md",
+                "file": "Actions and Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "keywords/REACTION.md"
+                "file": "Actions and Tasks.md"
               }
             }
           },
@@ -167,16 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ef33a426daabb2d",
+  "active": "a5adb07eab17edba",
   "lastOpenFiles": [
+    "keywords/AUTOMATIC.md",
+    "keywords/REACTION.md",
+    "keywords/INTERRUPTIBLE.md",
+    "skills/Craft.md",
+    "Crafting.md",
     "keywords/SPECIALIZED.md",
-    "keywords/INSTANTANEOUS.md",
     "keywords/RESILIENCE.md",
+    "keywords/INSTANTANEOUS.md",
     "Infiltration.md",
     "Skill.md",
     "System.md",
-    "Crafting.md",
-    "skills/Craft.md",
     "advantages/Cautious.md",
     "advantages/Wealthy.md",
     "advantages/Tough.md",
@@ -192,9 +195,6 @@
     "skills/Athletics.md",
     "skills/Aesthetics.md",
     "skills/Communication.md",
-    "subskills/Regalia.md",
-    "skills/Warfare.md",
-    "skills/Social.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",

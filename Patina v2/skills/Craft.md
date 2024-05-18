@@ -4,7 +4,7 @@ The ST and time to perform Crafting tasks is highly modular, depending on what s
 
 - Crafting generally uses [[Dexterity]]. In some cases it might use [[Intellect]] instead, where the actual manipulation of materials is being done indirectly through large-scale configurable machinery (for example, making the hulls of ships or using an industrial-sized drop hammer to shape pieces of metal multiple meters in size).
 
-- An interval of Crafting generally corresponds to a 4 hour block of work. Crafting tasks are generally [[<Interruptible>]].
+- An interval of Crafting generally corresponds to a 4 hour block of work. Crafting tasks are generally [[INTERRUPTIBLE]].
 
 - Basic Crafting tasks at commercially available levels of skill tend to have a base ST around 5 - making a rowboat, a horseshoe, making a glass cup, drawing a portrait accurately, etc. 
 
