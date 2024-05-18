@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting.md",
+                "file": "keywords/INSTANTANEOUS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting.md",
+                "file": "keywords/INSTANTANEOUS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting.md",
+                "file": "keywords/INSTANTANEOUS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting.md"
+                "file": "keywords/INSTANTANEOUS.md"
               }
             }
           },
@@ -169,6 +169,18 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
+    "keywords/EVASION.md",
+    "keywords/AUTOMATIC.md",
+    "keywords/EXCLUSIVE.md",
+    "keywords/DEFLECTION.md",
+    "keywords/RECOVERY.md",
+    "keywords/SPECIALIZED.md",
+    "keywords/RESILIENCE.md",
+    "keywords/REACTION.md",
+    "keywords/INTERRUPTIBLE.md",
+    "keywords/INSTANTANEOUS.md",
+    "Infiltration.md",
+    "Setting.md",
     "Skill.md",
     "System.md",
     "Talent.md",
@@ -178,23 +190,11 @@
     "Complication.md",
     "Crafting.md",
     "Cumulative Difficulty.md",
-    "keywords/DEFLECTION.md",
     "Extended Tasks.md",
     "Health and Injury.md",
     "Penetration.md",
     "Resistance.md",
-    "Infiltration.md",
     "Resisting damage.md",
-    "keywords/EVASION.md",
-    "Risk Dice.md",
-    "Setting.md",
-    "keywords/EXCLUSIVE.md",
-    "keywords/RECOVERY.md",
-    "conditions/Stunned.md",
-    "conditions/Injury.md",
-    "conditions/Nauseated.md",
-    "conditions/Numb.md",
-    "conditions/Organ Damage.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",
