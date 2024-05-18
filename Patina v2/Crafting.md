@@ -32,7 +32,7 @@ Generally some simple mechanisms can be added by any crafter without requiring a
 
 **Retractable**: Some part of the object can be retracted in order to make it take less space, to protect the user from an edge or snag, or to create a hidden pocket or drawer. This adds +1 ST and +1 Interval if it is done in an obvious way, or +3 ST and +3 Intervals to make it hidden enough to not be seen casually by eye. To make a truly hidden compartment that can resist a dedicated search, add the **Hidden** modification on top of this.
 
-**Hidden**: For +3/+6/+9 ST and +1/+2/+3 Intervals, the object is treated as having its own [[Stealth]] pool with 1, 2, or 3 points in it, dedicated towards concealing some aspect of the object's function.
+**Hidden**: For +3/+6/+9 ST and +1/+2/+3 Intervals, the object is treated as having its own [[Stealth Pool]] with 1, 2, or 3 points in it, dedicated towards concealing some aspect of the object's function.
 
 **Multi-function**: Mostly for tools, this turns something into a bit of a swiss army knife, allowing distinct functions to be combined in a single craft. For compatible functions that don't need to integrate (such as adding a claw to the back of a hammer), this is just +1 ST and +1 Interval each. For compatible functions that require integration (a car that is also a boat), this costs +3 ST and +3 Intervals. For incompatible functions where using the tool one way would damage or interfere with its ability to be used the other way or the ergonomics just don't make sense, this can be much higher or even outright impossible without subskill or technological support - a dress that is also a sword, etc. 
 

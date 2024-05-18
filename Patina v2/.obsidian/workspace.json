@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crafting.md",
+                "file": "Infiltration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crafting.md",
+                "file": "Infiltration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crafting.md",
+                "file": "Infiltration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crafting.md"
+                "file": "Infiltration.md"
               }
             }
           },
@@ -169,8 +169,23 @@
   },
   "active": "a5adb07eab17edba",
   "lastOpenFiles": [
-    "skills/Craft.md",
+    "Skill.md",
+    "Infiltration.md",
+    "System.md",
     "Crafting.md",
+    "skills/Craft.md",
+    "advantages/Cautious.md",
+    "advantages/Wealthy.md",
+    "advantages/Tough.md",
+    "advantages/Polymath.md",
+    "advantages/Lucky.md",
+    "advantages/Hardy.md",
+    "advantages/Genius.md",
+    "advantages/Fleet.md",
+    "tasks/Sneak.md",
+    "tasks/Research.md",
+    "tasks/Pick Lock.md",
+    "skills/Deception.md",
     "skills/Athletics.md",
     "skills/Aesthetics.md",
     "skills/Communication.md",
@@ -180,21 +195,6 @@
     "skills/Science.md",
     "skills/Scholarship.md",
     "skills/Sabotage.md",
-    "skills/Perception.md",
-    "skills/Mercantile.md",
-    "skills/Medicine.md",
-    "skills/Machine Use.md",
-    "skills/Legerdemain.md",
-    "skills/Labor.md",
-    "skills/Insight.md",
-    "skills/Grit.md",
-    "skills/Exploration.md",
-    "skills/Esoterica.md",
-    "skills/Engineering.md",
-    "skills/Deception.md",
-    "Skill.md",
-    "advantages/Tough.md",
-    "advantages/Hardy.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",

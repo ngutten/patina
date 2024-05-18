@@ -16,3 +16,7 @@
 	1. [[Background|Backgrounds]]
 	2. [[Supernatural Origins]]
 	4. [[Advancement and Retraining]]
+6. Subsystems
+	1. [[Infiltration]]
+	2. [[Crafting]]
+	3. [[Research]]
