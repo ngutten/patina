@@ -1,0 +1,3 @@
+Characters may refresh their pools of [[Stamina]] or [[Focus]] at any time by taking a level of Fatigue. Fatigue makes pushing oneself more risky, though it does not directly inhibit a character's ability to actually act or accomplish things. For every level of Fatigue, a character must add one [[Risk Dice]] per point they spend from their [[Pool]] on a given task.
+
+Characters recover one level of [[Fatigue]] every time they get a proper full night's worth of uninterrupted sleep - for most characters, this means at least 8 hours minus one hour per two ranks of [[Grit]]. Characters who have no sleep requirements shed one level of [[Fatigue]] per 24 hour period. However, [[Fatigue]] cannot be recovered in the midst of an uninterruptible [[Extended Tasks|Extended Task]].

@@ -12,6 +12,7 @@
 4. [[Health and Injury]]
 	1. [[Resisting damage]]
 	2. [[Conditions]]
+	3. [[Resting and Recovery]]
 5. Character Generation
 	1. [[Background|Backgrounds]]
 	2. [[Supernatural Origins]]

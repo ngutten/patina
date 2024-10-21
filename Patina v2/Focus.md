@@ -1,0 +1,1 @@
+Focus is a resource pool with a maximum equal to [[Intellect]] + [[Mind]] + [[Empathy]] + [[Senses]] + (other bonuses). Points of Stamina can be spent to add to tasks governed by any of the mental attributes.

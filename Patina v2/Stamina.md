@@ -1,0 +1,1 @@
+Stamina is a resource pool with a maximum equal to [[Might]] + [[Body]] + [[Dexterity]] + [[Reflexes]] + (other bonuses). Points of Stamina can be spent to add to tasks governed by any of the physical attributes. 

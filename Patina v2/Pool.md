@@ -1,0 +1,7 @@
+All characters have two main pools: [[Stamina]] and [[Focus]]. [[Stamina]] is the sum of their physical [[Attribute|Attributes]], while [[Focus]] is the sum of the mental [[Attribute|Attributes]]. Points can be spent, up to a limit of the controlling [[Attribute]] of a task, to gain a +1 bonus on that task each. While [[Fatigue|Fatigued]], spending points incurs [[Risk Dice]].
+
+Should a character's [[Pool]] be reduced by debuffs or damage to [[Attribute|Attributes]], the maximum decreases without lowering the current amount in the pool until the maximum is below the current amount. So e.g. someone with 10/12 who goes down to a maximum of 10 would have 10/10, but if they went down to a maximum of 9 then they'd have 9/9. If somehow a character's maximum [[Pool]] would be made negative, then it is treated as being zero. 
+
+Characters may spend an hour to catch their breath or recapture their focus, recovering a number of points of Stamina and Focus equal to the character's [[Body]] and [[Mind]] [[Attribute|Attributes]] respectively. A full night's sleep (8 hours - [[Grit]]/2 for most characters) fully restores a character's pools.
+
+Missed sleep, however, means that a character's maximum [[Pool]] values are reduced by the number of hours of deficit. **This is cumulative as long as sleep continues to be missed.**

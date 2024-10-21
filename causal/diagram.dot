@@ -1,0 +1,40 @@
+digraph mystery {
+    rankdir=LR;
+    
+    // Terminal evidentiary phenomena (Historical)
+    "Change in Sky Color" [shape=box, color=red, label="Change in Sky Color\n(Historical)"];
+    "Increase in Red-Eyed Births" [shape=box, color=red, label="Increase in Red-Eyed Births\n(Historical)"];
+    
+    // Causes of phenomena (Fundamental and Historical)
+    "Cosmic Radiation Shift" [label="Cosmic Radiation Shift\n(Fundamental)"];
+    "Cosmic Radiation Shift" -> "Change in Sky Color";
+    "Cosmic Radiation Shift" -> "Genetic Mutation in Population";
+    "Genetic Mutation in Population" [label="Genetic Mutation in Population\n(Fundamental)"];
+    "Genetic Mutation in Population" -> "Increase in Red-Eyed Births";
+    
+    // Root cause of cosmic radiation shift (Historical)
+    "Magical Experiment" [label="Magical Experiment\n(Historical)"];
+    "Magical Experiment" -> "Cosmic Radiation Shift";
+    
+    // True cause of magical experiment (Historical)
+    "Ancient Artifact" [label="Ancient Artifact\n(Historical)"];
+    "Ancient Artifact" -> "Magical Experiment";
+    
+    // Origin of the ancient artifact (Fundamental and Historical)
+    "Interdimensional Event" [label="Interdimensional Event\n(Historical)"];
+    "Interdimensional Event" -> "Ancient Artifact";
+    "Ancient Civilization" [label="Ancient Civilization\n(Historical)"];
+    "Ancient Civilization" -> "Ancient Artifact";
+    
+    // Precursors to the interdimensional event (Historical and Logical)
+    "Dimensional Rift" [label="Dimensional Rift\n(Fundamental)"];
+    "Dimensional Rift" -> "Interdimensional Event";
+    "Powerful Ritual by Ancient Civilization" [label="Powerful Ritual by Ancient Civilization\n(Historical)"];
+    "Powerful Ritual by Ancient Civilization" -> "Dimensional Rift";
+    
+    // Side effects (Logical)
+    "Unusual Abilities in Newborns" [label="Unusual Abilities in Newborns\n(Logical)"];
+    "Genetic Mutation in Population" -> "Unusual Abilities in Newborns";
+    "Atmospheric Instability" [label="Atmospheric Instability\n(Logical)"];
+    "Atmospheric Instability" -> "Change in Sky Color";
+}
