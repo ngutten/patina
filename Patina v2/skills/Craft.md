@@ -1,4 +1,4 @@
-A general talent for crafting isn't enough for someone to know how to blow glass into a spiral or what the proper carbon content of hard steel should be. Because of this, Craft tends to almost entirely be about the subskills, while the general skill covers very broad 'tinkering' types of uses. Common craft subskills involve the specialized techniques needed to work with specific materials. 
+This is the general skill for the creation of items and objects. A character is assumed to be practicing a particular Craft, not just 'Crafting' in general - blacksmithing, woodworking, ship-building, pottery, clockwork, etc. Characters with Craft can still apply it to fields they are not practiced in, but at a -5 penalty. This penalty can be reduced and ultimately eliminated through dedicating passive [[Downtime]] to practice. Some [[Background|Backgrounds]] may grant additional free crafting categories on top of the one represented by any XP investiture.
 
 The ST and time to perform Crafting tasks is highly modular, depending on what specifically a character is trying to make. As such, rather than a list of tasks (and a further list for each subskill), there are general rules of thumb:
 
@@ -6,22 +6,13 @@ The ST and time to perform Crafting tasks is highly modular, depending on what s
 
 - An interval of Crafting generally corresponds to a 4 hour block of work. Crafting tasks are generally [[INTERRUPTIBLE]].
 
-- Basic Crafting tasks at commercially available levels of skill tend to have a base ST around 5 - making a rowboat, a horseshoe, making a glass cup, drawing a portrait accurately, etc. 
+- Basic Crafting tasks at commercially available levels of skill tend to have a base ST around 5 - making a rowboat, a horseshoe, making a glass cup, drawing a portrait accurately, etc. Professionals are assumed to generally be spending [[Stamina]] and [[Focus]] at their job!
 
 - For hand-scale work, one Interval is sufficient to make common objects about 10cm in linear dimension - to knit or weave a patch of cloth, forge a knife, carve a statuette, etc. If the individual pieces involved can be scaled (e.g. no fine detail is essential to the craft) then there is a 10x scale multiplier. Machines can provide further, significantly larger multipliers. 
 
 Beyond that, see [[Crafting]] for ways in which particular crafts can be designed, and ways in which the actual crafting process may be modified.
 
-Common Subskills:
-
-[[Blacksmithing]] - Specific techniques for working and shaping metal, devising alloys, etc
-[[Woodworking]] - Specific techniques for shaping and joining wood, mostly for furniture but some construction work as well.
-[[Clothier]] - Weaving, knitting, stitching, connecting fabrics, with a focus on clothing (but also applicable to other clothwork like sails, awnings, etc)
-[[Glaziery]] - Working and shaping glass or glass-like materials - making specific shaped vessels via glassblowing, making flat panes, artistic techniques such as canework or sculpture, etc.
-[[Painting]] - Applying pigment to 2d media in order to capture or create novel images. This is the technical side of things, while [[Aesthetics]] is design and conceptualization. Also covers sketching, sand art, etc.
-[[Shipbuilding]] - Specific techniques for creating naval vessels
-[[Clockwork]] - Specific techniques for assembling miniaturized mechanisms
-[[Gemcutting]] - Cutting and shaping stones to draw out their brilliance
+In addition to common crafts, there are esoteric forms which require particular [[Subskill|Subskills]]. Generally these **replace** [[Craft]], rather than only acting as pre-requisites, but the particulars of a given project matter here - a more modular project may be split into separate tasks, or one with complex interdependencies between multiple skills might use the lowest rank out of all skills.
 
 Example Subskills requiring special training:
 [[Runecarving]] - Shamanistic practice connecting objects to sponsoring [[Entity|Entities]]

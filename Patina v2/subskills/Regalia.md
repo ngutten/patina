@@ -1,2 +1,0 @@
-| 15  | [[Empathy]] | 1hr | Dress and act so as to represent an idea more than a real person, such that people fall into patterns around the idea. Be too beautiful to kill, too regal to insult, etc. |
-| --- | ----------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

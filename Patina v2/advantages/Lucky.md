@@ -1,4 +1,4 @@
-**Cost**: 8xp
-**Prerequisites**: Character creation only, incompatible with [[Cautious]]
+**Cost**: 16xp
+**Prerequisites**: Character creation only
 
-The character's Critical range on [[Risk Dice]] increases by 1 (so 9 or 10 rather than 10)
+Whenever any of a character's [[Risk Dice]] shows a 10, a **good** complication occurs. The player may use this to cancels out a single negative complication, or can just get some unrelated good outcome in addition to everything else.

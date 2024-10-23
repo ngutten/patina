@@ -1,4 +1,4 @@
-The skill associated with talking with others, expressing yourself, making connections.
+The skill associated with talking with others, expressing yourself, making connections. Also leadership - giving commands, evoking loyalty, even allowing subordinates to use your skills.
 
 Example Tasks:
 
@@ -14,10 +14,6 @@ Example Tasks:
 | Variable | [[Empathy]]   | 10m      | Cast aspersions or glory on someone for nonspecific third parties present. Could be spreading a rumor, testifying for someone at court, etc. The ST for the other person to counter the allegations and repair their reputation (or the ST for people to see past the BS) is equal to the ST you choose plus or minus evidentiary and existing reputational factors.                                                                                                                                   |
 | 6 (1+ I) | [[Empathy]]   | 1 month  | Establish a particular reputation for yourself somewhere - trustworthy, criminal, mysterious, foreign, etc. This acts as a proactive defense against others changing it if done in advance, making attacking your reputation +1 ST harder +1 ST for every additional year you passively sustain the reputation or per additional interval you extend the task, up to a maximum total defense of your Communication skill + 1. Decays by 1 ST every three months you are out of contact with the place. |
 
-Common Subskills:
-[[Leadership]] - Give commands, allow subordinates to use your skills, manipulate morale and loyalty
-
 Example Subskills requiring special training:
 [[Telepathy]] - Subdiscipline of [[Psionics]]
-[[Contracts]] - Subdiscipline of [[Oathbinding]]
 [[Invocation]] - Subdiscipline of [[Animism]], directly calling a particular [[Entity]], making contact, and negotiating. Sometimes used (by mistake) by mediums for seances, thinking they are contacting the dead.

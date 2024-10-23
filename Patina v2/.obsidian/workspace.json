@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/Aesthetics.md",
+                "file": "attributes/Empathy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aesthetics"
-            }
-          },
-          {
-            "id": "839aa4b5d9bca601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "powers/Supernatural Powers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supernatural Powers"
+              "title": "Empathy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,35 +172,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "839aa4b5d9bca601",
+  "active": "24aa8b988ce88ef1",
   "lastOpenFiles": [
+    "attributes/Senses.md",
+    "attributes/Mind.md",
+    "attributes/Intellect.md",
+    "advantages/Efficient Worker.md",
+    "advantages/Alacritous.md",
+    "Crafting.md",
+    "skills/Craft.md",
+    "attributes/Dexterity.md",
+    "advantages/Cautious.md",
+    "attributes/Reflexes.md",
+    "attributes/Body.md",
+    "attributes/Might.md",
+    "skills/Engineering.md",
+    "skills/Deception.md",
     "skills/Aesthetics.md",
     "powers/Supernatural Powers.md",
+    "skills/Warfare.md",
+    "skills/Social.md",
+    "skills/Science.md",
+    "skills/Scholarship.md",
+    "skills/Sabotage.md",
+    "skills/Perception.md",
+    "skills/Mercantile.md",
+    "skills/Medicine.md",
+    "skills/Machine Use.md",
+    "skills/Legerdemain.md",
     "powers",
-    "skills/Communication.md",
-    "keywords/EXCLUSIVE.md",
-    "keywords/AUTOMATIC.md",
-    "keywords/RECOVERY.md",
-    "keywords/INSTANTANEOUS.md",
-    "keywords/REACTION.md",
-    "keywords/RESILIENCE.md",
-    "conditions/Stunned.md",
-    "conditions/Pain.md",
-    "conditions/Organ Damage.md",
-    "conditions/Off-balance.md",
-    "conditions/Numb.md",
-    "conditions/Nauseated.md",
-    "conditions/Injury.md",
-    "conditions/Distracted.md",
-    "conditions/Disoriented.md",
-    "skills/Grit.md",
-    "Health and Injury.md",
-    "keywords/SPECIALIZED.md",
-    "advantages/Genius.md",
-    "Talent.md",
-    "Advancement and Retraining.md",
-    "Attribute.md",
-    "Complication.md",
     "tasks/soldiery",
     "tasks/duelling",
     "tasks/brawling",

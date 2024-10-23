@@ -1,0 +1,1 @@
+Dodging an attack is a baseline `ST 2+Reflexes+3C` [[Athletics]]/[[Reflexes]] task, where the [[Reflexes]] in the `ST` is that of the attacking. The `ST` of dodging multiple things in quick succession is cumulative over a 10 second interval. This is a [[EVASION]] task.

@@ -7,9 +7,3 @@ Example Tasks:
 | ST  | Tags | Interval | Task |
 | --- | ---- | -------- | ---- |
 |     |      |          |      |
-
-Common Subskills:
-
-[[Hiding]] - 
-
-Example Subskills requiring special training:

@@ -17,4 +17,4 @@ Some of these are:
 - [[Sanguine]] - Attunement to the connection of all things through the blood. Attribute of those who can steal strength or forms from others, who can form and pull on connections through blood. 
 - [[Oath]] - Attribute of those who bind themselves in order to hold higher authority over the world. Points of Oath require swearing and upholding oaths. In turn, the character's word becomes closer to absolute truth, others lose the ability to break their own oaths made to the character, and ultimately the world deforms to help the character uphold their promises.
 
-Baseline human characters start with 3 in the core attributes and do not have any special attributes unlocked.
+Starting player characters begin by assigning the following values to the basic Attributes, as the player desires: 5, 4, 4, 3, 3, 3, 2, 2. These may be further modified by [[Supernatural Origins]], [[Background]], and [[Advantage|Advantages]].

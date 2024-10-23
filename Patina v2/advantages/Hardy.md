@@ -1,4 +1,4 @@
 **Cost:** 12xp
-**Prerequisites:** Subskill of [[Grit]]...
+**Prerequisites:** [[Grit]] 4
 
 The character ignores the first point of debuffs to any of their [[Stamina]] [[Attribute|Attributes]].

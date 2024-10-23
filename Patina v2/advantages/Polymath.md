@@ -1,4 +1,4 @@
 **Cost**: 15xp
-**Prerequisites**: At least five general skills at 4
+**Prerequisites**: At least five Skills at rank 4+
 
 The character gains an additional [[Talent]]

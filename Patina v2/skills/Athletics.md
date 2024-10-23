@@ -11,11 +11,7 @@ Example Tasks:
 | 3+3C                 | [[Body]]      | Variable | Swim 1/2km / Run 1km / hike 6km on flat terrain / hike 3km in mountains or hills. Difficulty accumulates until you have a night's rest. Harsh conditions increase this, bad rest can prevent difficulty refresh. |
 | `1 per 2m  Distance` | [[Might]]     | 10s      | Throw a handheld object                                                                                                                                                                                          |
 
-Common Subskills:
-[[Chase]] - Specific training with regards to chasing people and escaping from being chased, above and beyond speed and navigation ability. 
-[[Sprinting]] - Boost your movement speed in all things, complete physical movements more quickly possibly in exchange for [[Stamina]].
-[[Parkour]] - Move through cluttered environments effortlessly, ignore difficulty terrain, compose multiple movements into a single check, avoid damage from falls or collisions.
-[[Sport]] - Any particular formal organized sport has a dedicated subskill. Mostly here for the +1/2 rank bonus, the do not tend to give particular perks. 
+Athletics is used for chasing, sprinting, parkour, playing sports, but also for [[Dodge|dodging]] attacks. 
 
 Example Subskills requiring special training:
 [[Dynamic Augmentation]] - Incorporate force projection and transmission into your movements. Either involves the use of [[Dynamic Relays]] or also requires [[Telekinesis]] via Psionics.

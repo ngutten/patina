@@ -1,0 +1,3 @@
+Mind represents a character's willpower, resilience, and emotional stability. Like [[Body]] it acts as a kind of mental health bar, with the character getting knocked out if this is reduced to zero.
+
+Beyond that, characters with 4+ [[Mind]] receive one level of innate [[Resistance]] to emotional conditions and manipulation. Characters attaining 8 [[Mind]] would obtain a second level of [[Resistance]], and so on.
