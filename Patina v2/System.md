@@ -13,7 +13,7 @@
 	1. [[Resisting damage]]
 	2. [[Conditions]]
 	3. [[Resting and Recovery]]
-5. Character Generation
+5. [[Character Creation]]
 	1. [[Background|Backgrounds]]
 	2. [[Supernatural Origins]]
 	4. [[Advancement and Retraining]]
