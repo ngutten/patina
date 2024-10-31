@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supernatural Origins.md",
+                "file": "skills/Deception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supernatural Origins"
+              "title": "Deception"
             }
           }
         ]
@@ -174,8 +174,12 @@
   },
   "active": "24aa8b988ce88ef1",
   "lastOpenFiles": [
-    "powers/Warped.md",
+    "skills/Communication.md",
+    "skills/Athletics.md",
+    "skills/Aesthetics.md",
+    "Actions and Tasks.md",
     "Supernatural Origins.md",
+    "powers/Warped.md",
     "powers/The Merry Ones.md",
     "powers/Glitch.md",
     "powers/Wyrd.md",
@@ -196,10 +200,6 @@
     "Advancement and Retraining.md",
     "advantages/Double Origins.md",
     "advantages/Lucky.md",
-    "advantages/Efficient Worker.md",
-    "attributes/Empathy.md",
-    "attributes/Senses.md",
-    "attributes/Mind.md",
     "powers",
     "tasks/soldiery",
     "tasks/duelling",
